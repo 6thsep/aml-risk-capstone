@@ -1,0 +1,6 @@
+Metric,OLS Baseline,LASSO
+R²,0.7380,0.7332
+Adjusted R²,0.7220,0.7169
+RMSE (in-sample),0.6337,0.6395
+MAE (in-sample),0.5248,0.5327
+10-fold CV RMSE,0.7363,0.7370

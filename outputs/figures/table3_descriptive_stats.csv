@@ -1,0 +1,10 @@
+,mean,std,min,max,skewness
+Basel AML Score,5.302,1.243,2.87,8.14,0.423
+WGI Control of Corruption,1.305,13.965,-23.119,33.638,0.51
+WGI Rule of Law,1.474,12.817,-30.768,27.414,0.189
+WGI Govt Effectiveness,1.673,12.774,-24.448,30.023,0.228
+WGI Regulatory Quality,2.222,12.758,-28.642,31.001,0.208
+TI CPI Score,46.9,18.337,13.0,90.0,0.47
+Bank Branches / 100k,14.671,11.854,0.392,79.043,2.161
+Financial Account %,69.273,23.355,11.686,100.0,-0.278
+GDP per Capita (log),9.004,1.427,6.222,11.726,-0.049

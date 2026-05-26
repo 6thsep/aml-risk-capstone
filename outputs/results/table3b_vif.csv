@@ -1,0 +1,9 @@
+Predictor,VIF,Status
+WGI Control of Corruption,73.308,HIGH
+WGI Rule of Law,18.294,HIGH
+WGI Govt Effectiveness,14.856,HIGH
+WGI Regulatory Quality,12.595,HIGH
+TI CPI Score,81.047,HIGH
+Bank Branches / 100k,1.221,OK
+Financial Account %,2.904,OK
+GDP per Capita (log),6.295,OK

@@ -1,0 +1,9 @@
+predictor,label,coef,abs_coef
+regulatory_quality,WGI Regulatory Quality,-0.6864112798452169,0.6864112798452169
+rule_of_law,WGI Rule of Law,-0.4003667477160041,0.4003667477160041
+corruption_control,WGI Control of Corruption,0.24515368018359207,0.24515368018359207
+gdp_log,GDP per Capita (log),-0.15382087774260683,0.15382087774260683
+bank_branches_per100k,Bank Branches / 100k,-0.15247946262472933,0.15247946262472933
+financial_account_pct,Financial Account %,0.02157611839623741,0.02157611839623741
+govt_effectiveness,WGI Govt Effectiveness,-0.019351768804786954,0.019351768804786954
+cpi_score,TI CPI Score,-0.0,0.0

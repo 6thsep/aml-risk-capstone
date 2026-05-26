@@ -1,0 +1,6 @@
+,Model 1 (Main Effects),Model 2 (+ Interaction),Delta R² / F-test p
+R²,0.6414,0.6420,0.0006
+Adjusted R²,0.6335,0.6314,
+RMSE,0.7414,0.7408,F=0.233
+N,140,140,p=0.6301
+Predictors,"Corruption, Financial Access, GDP",Corruption x Financial Access added,NOT SIGNIFICANT
